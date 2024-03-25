@@ -3,7 +3,7 @@
 <!--
 **syedrameezahmed18/syedrameezahmed18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-I am a software engineer specializing in the field of Web and Mobile Applications development 
+I am a software engineer specializing in the domain of Web and Mobile Applications development 
 
 - 🔭 I’m currently working on React,React Native, Expressjs,firebase,MongoDB,MySQL
 - 🌱 I’m currently learning Next.js
